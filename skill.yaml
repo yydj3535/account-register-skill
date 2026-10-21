@@ -1,0 +1,4 @@
+name: provider_account_registration
+title: 服务商账号注册助手
+description: 替用户走服务商网页注册流程：先确认个人 / 企业上下文，逐项核对身份字段，不编造信息，卡在硬阻塞处干净停下并交回用户。
+category: Work and knowledge
